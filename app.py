@@ -53,7 +53,7 @@ def hello_geek():
     <body>
         <div class="container">
             <h1>🎉 Deployment Successful!</h1>
-            <p>Successfully deployed Python application through Jenkins! Webhook added.</p>
+            <p>Successfully deployed Python application through Jenkins! Webhook added(spandan).</p>
             <a href="/hi">Say Hi!</a>
         </div>
     </body>
